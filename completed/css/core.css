@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	color: #333;
+	outline: none;
+	text-decoration: none;
+	border: none;
+}
+body {
+	font-family: Helvetica, Arial, Sans-serif;
+	text-align: center;
+	padding: 20px 0;
+}
+#wrapper {
+	width: 800px;
+	margin: 0 auto;
+	text-align: left;
+}
+.tbl_insert {
+	margin-bottom: 14px;
+}
+.tbl_insert th {
+	padding: 7px 10px 3px 0;
+}
+.tbl_insert td {
+	padding: 3px 0;
+}
+.fld {
+	padding:4px;
+	width: 300px;
+}
+.sbm,.fld {
+	border:solid 1px #ccc;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+}
+.sbm,.btn {	
+	float: left;
+}
+.sbm {	
+	background:#f9f9f9;
+}
+.btn {
+	padding:5px 15px;
+	background:transparent;
+	cursor: pointer;
+}
+.warn {
+	color: #900;
+	padding-left: 10px;
+	font-weight: normal;
+	display: none;
+}

@@ -1,2 +1,2 @@
-# web-form-jquery-ajax-php
-Exercise files for the course Web Form with jQuery $.ajax() and PHP
+# Web Form with jQuery $.ajax() and PHP
+Exercise files for the course **Web Form with jQuery $.ajax() and PHP**
